@@ -4,3 +4,12 @@ visualdl
 paddleseg
 paddlenlp
 paddleocr
+matplotlib
+scipy
+itertools 
+seaborn 
+numpy 
+pandas
+random
+time
+datetime 
